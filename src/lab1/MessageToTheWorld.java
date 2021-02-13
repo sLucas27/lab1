@@ -16,7 +16,7 @@ public class MessageToTheWorld {
      */
     public static void main(String[] args) {
         
-        System.out.println("My name is Lucas, and I’m a humble man.");
+        System.out.println("My name is Lucas, and I’m gonna be a coding legend.");
         
     }
     
